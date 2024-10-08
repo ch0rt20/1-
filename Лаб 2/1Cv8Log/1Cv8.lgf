@@ -1,0 +1,27 @@
+﻿1CV8LOG(ver 2.0)
+5a36458c-0092-48b9-a411-ed463b3bc6e0
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"LAPTOP-IRLC6Q7F",1},
+{3,"1CV8C",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$Session$_.Finish",3},
+{3,"Designer",2},
+{4,"_$InfoBase$_.RestoreStart",4},
+{4,"_$InfoBase$_.RestoreFinish",5},
+{4,"_$InfoBase$_.DBConfigUpdateStart",6},
+{4,"_$InfoBase$_.DBConfigUpdate",7},
+{3,"BackgroundJob",3},
+{4,"_$InfoBase$_.ConfigUpdate",8},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Data$_.New",10},
+{5,ab969dcc-c8db-4c47-b09e-b78715ac84e3,"Документ.ЗакупкаМатериалов",1},
+{4,"_$Data$_.Post",11},
+{4,"_$Transaction$_.Commit",12},
+{4,"_$Data$_.Update",13},
+{5,1c11f4e1-12a2-4173-8473-75ff926b2aa3,"Константа.ДатаНачалаВеденияУчета",2},
+{5,ee85f18e-370a-46c8-9893-e09386d32afd,"Константа.ЕстьДоступПоЭлектричеству",3},
+{5,be010929-5542-4747-966e-8a0e19ca6dba,"Константа.ЕстьДоступПоВысотнымРаботам",4},
+{5,aeee49ec-b4b6-4ba7-aa0d-94013ef3a686,"Константа.УчетПоОрганизациям",5}

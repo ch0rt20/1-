@@ -1,0 +1,26 @@
+﻿1CV8LOG(ver 2.0)
+d637264b-0134-4be8-9d4f-7f81e093ab9f
+
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",1},
+{2,"LAPTOP-IRLC6Q7F",1},
+{3,"Designer",1},
+{4,"_$Session$_.Authentication",1},
+{13,1,1},
+{4,"_$Session$_.Start",2},
+{4,"_$InfoBase$_.ConfigUpdate",3},
+{4,"_$InfoBase$_.DBConfigUpdateStart",4},
+{4,"_$InfoBase$_.PredefinedDataUpdate",5},
+{5,8d786c2b-bfe2-410e-91b5-c2ba12ee2b81,"",1},
+{4,"_$InfoBase$_.DBConfigUpdate",6},
+{3,"1CV8C",2},
+{4,"_$Transaction$_.Begin",7},
+{4,"_$Data$_.PredefinedDataInitialization",8},
+{5,8d786c2b-bfe2-410e-91b5-c2ba12ee2b81,"Справочник.Валюты",1},
+{4,"_$Transaction$_.Commit",9},
+{4,"_$Data$_.Update",10},
+{5,1b70a28a-725a-4dde-9a46-0b43b0102edc,"РегистрСведений.КурсыВалют",2},
+{3,"BackgroundJob",3},
+{4,"_$Session$_.Finish",11},
+{4,"_$Transaction$_.Rollback",12},
+{4,"_$InfoBase$_.DumpStart",13},
+{4,"_$InfoBase$_.DumpFinish",14}
